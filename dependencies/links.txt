@@ -1,0 +1,21 @@
+# Arquivo links.txt - Links Necessários para Instalação do Quartus Prime Lite e ModelSim
+
+# Link para download do Quartus Prime Lite
+Quartus Prime Lite (v23.1) para Linux:
+https://www.intel.com/content/www/us/en/software-kit/795187/intel-quartus-prime-lite-edition-design-software-version-23-1-for-linux.html
+
+# Link para download do ModelSim Intel FPGA Edition
+ModelSim Intel FPGA Standard Edition (v20.1.1) para Linux:
+https://www.intel.com/content/www/us/en/software-kit/750666/modelsim-intel-fpgas-standard-edition-software-version-20-1-1.html
+
+# Link para obter a licença do Questa FPGA (opcional)
+Questa FPGA License:
+https://licensing.intel.com/psg/s/?language=en_US
+
+# Link adicional com instruções detalhadas (caso necessário)
+Mais detalhes sobre instalação de dependências:
+https://gist.github.com/Razer6/cafc172b5cffae189b4ecda06cf6c64f
+
+# Link sobre o erro '-novopt' e como resolvê-lo
+Mais detalhes sobre o bug "-novopt":
+https://community.intel.com/t5/Intel-Quartus-Prime-Software/Error-suppressible-vsim-12110-The-novopt-option-has-no-effect-on/m-p/1195522
